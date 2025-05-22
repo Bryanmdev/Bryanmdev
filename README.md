@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou Bryan Miranda</h1>
 
 <p align="center">
-  👨🏻‍💻 Cientista da Computação &nbsp;|&nbsp; 🧗🏼 Apaixonado por Programação &nbsp;|&nbsp; 🎨 Dev Frontend
+  👨🏻‍💻 Cientista da Computação &nbsp;|&nbsp; 🧗🏼 Apaixonado por Programação &nbsp;|&nbsp; 👾 Dev FullStack
 </p>
 
 <p align="center">
