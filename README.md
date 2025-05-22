@@ -49,6 +49,14 @@
 
 ---
 
+## 📘 Estudando atualmente
+- Git e GitHub avançado
+- JavaScript moderno (ES6+)
+- React + Node.js (Full Stack)
+- Segurança da informação e lógica com C
+
+---
+
 ## 📬 Onde me encontrar
 
 <p align="center">
