@@ -28,28 +28,23 @@
 ## 📂 Meus projetos favoritos
 
 ### 🎮 Códice da Última Era *(em desenvolvimento)*  
-> Um jogo metroidvania 2D com lore profunda e visual inspirado em Hollow Knight.  
-> **Tecnologias:** React • Canvas/WebGL
+> Um jogo 2D com lore profunda e visual inspirado em Enigma do medo e pixel artes.  
+> **Tecnologias:** ainda em análise
 
 ---
 
 ### 🎨 Portfólio Pessoal  
 > Meu site pessoal com projetos, contato e blog.  
-> **Tecnologias:** React • Tailwind • Vite
+> **Tecnologias:** Html • Css 
 
 ---
 
-### 🔧 DevTools UI Clone  
-> Clone de uma interface de ferramentas para devs inspirado no estilo do VSCode.  
-> **Tecnologias:** React • TypeScript • Styled Components
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=algolia" width="48%" />
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=algolia" width="48%" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=algolia" width="48%" />
 </p>
 
 ---
