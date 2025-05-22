@@ -34,8 +34,8 @@
 ---
 
 ### 🎨 Portfólio Pessoal  
-> Meu site pessoal com projetos, contato e blog.  
-> **Tecnologias:** Html • Css 
+> Meu site pessoal com apresentação, projetos e formas de contato.
+> **Tecnologias:** HTML5 • CSS3 • Design Responsivo • Deploy com NetlifyS 
 
 ---
 
