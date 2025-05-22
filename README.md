@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  Desenvolvedor Frontend apaixonado por criar interfaces bonitas, funcionais e acessíveis. <br/>
-  Estudante de Ciência da Computação, buscando crescer na área de desenvolvimento web.
+  Desenvolvedor Fullstack apaixonado por desenvolver sistemas, criar interfaces bonitas, funcionais e acessíveis. <br/>
+  Estudante de Ciência da Computação, buscando crescer na área de desenvolvimento.
 </p>
 
 ---
