@@ -27,7 +27,7 @@
 
 ## 📂 Meus projetos favoritos
 
-### 🎮 Códice da Última Era *(em desenvolvimento)*  
+### 🎮 Game *(em desenvolvimento)*  
 > Um jogo 2D com lore profunda e visual inspirado em Enigma do medo e pixel artes.  
 > **Tecnologias:** ainda em análise
 
@@ -54,6 +54,8 @@
 - JavaScript moderno (ES6+)
 - React + Node.js (Full Stack)
 - Segurança da informação e lógica com C
+- Desenvolvimento de games
+- C#
 
 ---
 
