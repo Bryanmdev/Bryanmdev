@@ -80,9 +80,12 @@ Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**J
 
 ---
 
-## 📈 Métricas
+## 🏆 Conquistas & Frequência
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanmdev&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="Langs" />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bryanmdev&theme=gitdimmed&no-frame=true&margin-w=15&row=1" alt="Trophies" />
+  
+  <br /><br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
 </div>
