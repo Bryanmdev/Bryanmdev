@@ -83,6 +83,6 @@ Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**J
 ## 📈 Métricas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanmdev&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117" height="160" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanmdev&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="Langs" />
 </div>
