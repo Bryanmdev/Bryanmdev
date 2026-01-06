@@ -80,12 +80,12 @@ Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**J
 
 ---
 
-## 🏆 Conquistas & Frequência
+## 🏆 Disciplina & Frequência
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bryanmdev&theme=gitdimmed&no-frame=true&margin-w=15&row=1" alt="Trophies" />
-  
-  <br /><br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak Stats" />
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=ED8B00&ring=ED8B00&currStreakNum=ED8B00" alt="Bryan Streak" />
 </div>
+
+<br />
+
+> *Nota: Os gráficos de estatísticas gerais foram removidos temporariamente para manter a integridade visual do perfil, priorizando a estabilidade via badges manuais acima.*
