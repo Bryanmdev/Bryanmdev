@@ -1,74 +1,88 @@
-<h1 align="center">👋 Olá! Eu sou Bryan Miranda</h1>
+<div align="center">
+  <h1 style="font-size: 2.5rem; font-weight: bold;">Bryan</h1>
+  <p style="font-size: 1.2rem; font-weight: 500;">
+    Computer Scientist | Software Engineer | Game Systems Developer
+  </p>
 
-<p align="center">
-  👨🏻‍💻 Cientista da Computação &nbsp;|&nbsp; 🧗🏼 Apaixonado por Programação &nbsp;|&nbsp; 👾 Dev FullStack
-</p>
+  <p align="center">
+    <em>"Tech Agnostic. Focado em arquiteturas escaláveis, automação inteligente e sistemas interativos."</em>
+  </p>
 
-<p align="center">
-  Desenvolvedor Fullstack apaixonado por desenvolver sistemas, criar interfaces bonitas, funcionais e acessíveis. <br/>
-  Estudante de Ciência da Computação, buscando crescer na área de desenvolvimento.
-</p>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
+    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:SEU-EMAIL@GMAIL.COM">
+      <img src="https://img.shields.io/badge/Email-Business-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </div>
+</div>
 
----
-
-## 🚀 Tecnologias que uso
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-</p>
+<br />
 
 ---
 
-## 📂 Meus projetos favoritos
+## 🔬 Perfil Técnico Multidisciplinar
 
-### 🎮 Game *(em desenvolvimento)*  
-> Um jogo 2D com lore profunda e visual inspirado em Enigma do medo e pixel artes.  
-> **Tecnologias:** ainda em análise
+Como Cientista da Computação em formação, vejo a tecnologia como um espectro contínuo. Minha atuação vai desde a **automação de infraestrutura (DevOps)** até o desenvolvimento de **experiências interativas (Game Dev)**.
 
----
-
-### 🎨 Portfólio Pessoal  
-> Meu site pessoal com apresentação, projetos e formas de contato.
-> **Tecnologias:** HTML5 • CSS3 • Design Responsivo • Deploy com NetlifyS 
+Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**Java/C#**) para dominar conceitos avançados de Orientação a Objetos e aplicá-los tanto em sistemas corporativos quanto em engines de jogos. Meu objetivo é criar software que seja seguro, performático e visualmente imersivo.
 
 ---
 
+## 📡 Arsenal Tecnológico
 
-## 📊 GitHub Stats
+### 1. Enterprise Software & OOP
+*Desenvolvimento robusto focado em Design Patterns e arquitetura estrita.*
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=algolia" width="48%" />
-</p>
+### 2. Game Engineering & Simulação
+*Lógica de real-time rendering, física e sistemas interativos.*
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23_Scripting-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</div>
+
+### 3. Web Fullstack & Cloud
+*Aplicações modernas, microsserviços e bancos de dados gerenciados.*
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
+
+### 4. DevOps, Automação & Dados
+*Orquestração de ambientes, containers e fluxos de dados inteligentes.*
+<div style="display: inline_block">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
 ---
 
-## 📘 Estudando atualmente
-- Git e GitHub avançado
-- JavaScript moderno (ES6+)
-- React + Node.js (Full Stack)
-- Segurança da informação e lógica com C
-- Desenvolvimento de games
-- C#
+## 🏗️ Projetos e Laboratórios
+
+| Projeto / Lab | Área | Stack & Conceitos |
+| :--- | :--- | :--- |
+| **Argus One** | *Cybersec / Web* | **React, TS, Criptografia**. Gerenciador de senhas com foco em segurança client-side. |
+| **Game Dev Lab** | *Interactive* | **Unity, C#**. Prototipagem de mecânicas de jogos, aplicando física e lógica de estado em tempo real. |
+| **Automação Corp** | *Workflow* | **n8n, Python**. Orquestração de processos e integração de sistemas legados. |
+| **Enterprise Studies** | *Backend* | **Java, C#**. Implementação de algoritmos complexos e estruturas de dados orientadas a objetos. |
 
 ---
 
-## 📬 Onde me encontrar
+## 📈 Métricas
 
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/bryan-miraanda/" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-  🌐 <a href="https://bryanlinkthree.netlify.app/" target="_blank">LinkTree</a> &nbsp;|&nbsp;
-  📧 <a href="mailto:bryanmiranda.dev@gmail.com">Email</a>
-</p>
-
----
-
-<p align="center">
-  ✨ Sempre aprendendo, sempre evoluindo.
-</p>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryanmdev&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryanmdev&layout=compact&theme=gotham&hide_border=true&bg_color=0d1117&langs_count=6" height="160" />
+</div>
