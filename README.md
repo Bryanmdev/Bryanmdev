@@ -83,9 +83,9 @@ Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**J
 ## 🏆 Disciplina & Frequência
 
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bryanmdev&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=ED8B00&ring=ED8B00&currStreakNum=ED8B00" alt="Bryan Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryanmdev/Bryanmdev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryanmdev/Bryanmdev/output/github-contribution-grid-snake.svg">
+    <img alt="Github Contribution Snake" src="https://raw.githubusercontent.com/Bryanmdev/Bryanmdev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
-
-<br />
-
-> *Nota: Os gráficos de estatísticas gerais foram removidos temporariamente para manter a integridade visual do perfil, priorizando a estabilidade via badges manuais acima.*
