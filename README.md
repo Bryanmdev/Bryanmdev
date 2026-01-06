@@ -14,10 +14,10 @@
   </p>
 
   <div style="display: flex; justify-content: center; gap: 10px; margin-top: 15px;">
-    <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI">
+    <a href="https://www.linkedin.com/in/bryan-miraanda">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="mailto:SEU-EMAIL@GMAIL.COM">
+    <a href="mailto:bryanmiranda.dev@gmail.com">
       <img src="https://img.shields.io/badge/Email-Business-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
   </div>
