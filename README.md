@@ -85,11 +85,9 @@ Atualmente, estou expandindo minha stack para linguagens fortemente tipadas (**J
 
 ---
 
-## 🗺️ Mapa de Desenvolvimento & Frequência
+## 🏆 Disciplina & Frequência
 
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Map" />
-  <br/>
+<div align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bryanmdev/Bryanmdev/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bryanmdev/Bryanmdev/output/github-contribution-grid-snake.svg">
